@@ -85,14 +85,14 @@ dr	どれ
 ds	です
 dt	でた
 du	づ
+dvh	どぅー
 dvj	どぅん
 dvu	どぅ
-dvh	どぅー
 dw	でい
 dx	だう
+dyf	でゅー
 dyj	でゅん
 dyu	でゅ
-dyf	でゅー
 dz	だん
 e	え
 fa	ふぁ
@@ -228,6 +228,7 @@ kz	かん
 l;	あった
 la	ぁ
 lc	いる
+ld	ありません
 le	ぇ
 li	ぃ
 lm	→
@@ -446,8 +447,8 @@ tt	てた
 tu	とぅ
 tw	てい
 tx	たう
-tyu	てゅ
 tyj	てゅん
+tyu	てゅ
 tz	たん
 u	う
 va	う゛ぁ
