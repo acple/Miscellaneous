@@ -78,7 +78,6 @@ Precomposition	Shift Space	InsertSpace
 Precomposition	Space	InsertSpace
 Prediction	Ctrl Delete	DeleteSelectedCandidate
 Prediction	Ctrl k	DeleteSelectedCandidate
-Suggestion	Shift Enter	CommitFirstSuggestion
 Composition	ASCII	InsertCharacter
 Composition	Kanji	IMEOff
 Composition	OFF	IMEOff
