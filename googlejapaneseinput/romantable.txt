@@ -234,6 +234,7 @@ li	ぃ
 lm	→
 ln	←
 lo	ぉ
+lq	あい
 lr	ある
 ls	あります
 lt	いた
