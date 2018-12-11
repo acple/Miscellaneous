@@ -103,6 +103,7 @@ fi	ふぃ
 fj	ふん
 fk	ふぃん
 fl	ふぉん
+fn	ふぁん
 fo	ふぉ
 fp	ふぉー
 fq	ふぁい
@@ -422,7 +423,7 @@ tj	とぅん
 tk	てぃん
 tl	とん
 tm	ため
-tn	との
+tn	たん
 to	と
 tp	とう
 tq	たい
