@@ -1,17 +1,3 @@
-.monaco-shell {
-  font-family:
-    -apple-system,
-    BlinkMacSystemFont,
-    Segoe WPC,
-    Segoe UI,
-    HelveticaNeue-Light,
-    Noto Sans,
-    Meiryo,
-    Hiragino Kaku Gothic Pro,
-    Source Han Sans J,
-    Source Han Sans JP,
-    Source Han Sans,
-    Sazanami Gothic,
-    IPA Gothic,
-    sans-serif
+.monaco-shell.windows,.monaco-shell.windows .monaco-menu-container .monaco-menu {
+    font-family: Segoe WPC,Segoe UI,Meiryo,sans-serif
 }
