@@ -1,5 +1,6 @@
 status	key	command
 Composition	Backspace	Backspace
+Composition	Ctrl [	Cancel
 Composition	Ctrl a	MoveCursorToBeginning
 Composition	Ctrl b	MoveCursorLeft
 Composition	Ctrl d	Delete
@@ -32,6 +33,7 @@ Composition	Space	Convert
 Composition	Tab	PredictAndConvert
 Composition	Up	Convert
 Conversion	Backspace	Cancel
+Conversion	Ctrl [	Cancel
 Conversion	Ctrl a	SegmentFocusFirst
 Conversion	Ctrl b	SegmentFocusLeft
 Conversion	Ctrl c	ConvertPrevPage
@@ -72,6 +74,7 @@ Conversion	Tab	PredictAndConvert
 Conversion	Up	ConvertPrev
 DirectInput	Ctrl F12	LaunchConfigDialog
 DirectInput	Hankaku/Zenkaku	IMEOn
+Precomposition	Ctrl [	IMEOff
 Precomposition	Ctrl F12	LaunchConfigDialog
 Precomposition	Hankaku/Zenkaku	IMEOff
 Precomposition	Shift Space	InsertSpace
