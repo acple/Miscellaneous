@@ -423,7 +423,7 @@ tj	とぅん
 tk	てぃん
 tl	とん
 tm	ため
-tn	たん
+tn	との
 to	と
 tp	とう
 tq	たい
@@ -469,6 +469,7 @@ vx	う゛ぁう
 vz	う゛ぁん
 w;	わった
 wa	わ
+wc	うぇい
 wd	うぇん
 we	うぇ
 whe	ゑ

@@ -5,6 +5,7 @@ Composition	Ctrl a	MoveCursorToBeginning
 Composition	Ctrl b	MoveCursorLeft
 Composition	Ctrl d	Delete
 Composition	Ctrl e	MoveCursorToEnd
+Composition	Ctrl Enter	Commit
 Composition	Ctrl f	MoveCursorRight
 Composition	Ctrl g	Cancel
 Composition	Ctrl h	Backspace
@@ -73,7 +74,7 @@ Conversion	Space	ConvertNext
 Conversion	Tab	PredictAndConvert
 Conversion	Up	ConvertPrev
 DirectInput	Ctrl F12	LaunchConfigDialog
-DirectInput	Hankaku/Zenkaku	IMEOn
+DirectInput	Hankaku/Zenkaku	InputModeHiragana
 Precomposition	Ctrl [	IMEOff
 Precomposition	Ctrl F12	LaunchConfigDialog
 Precomposition	Hankaku/Zenkaku	IMEOff
